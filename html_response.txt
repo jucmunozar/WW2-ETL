@@ -1,0 +1,4204 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   The History Place - World War II in Europe Timeline
+  </title>
+  <meta content="Complete World War II in Europe timeline with photos and text. Over 100 links!" name="Description">
+   <meta content="nazi, hitler, world war two, world war 2, world war II, third reich, holocaust, world war 2 timeline, world war two timeline, world war II tineline, world war II photos,  history place, adolf hitler, germany, nazi germany" name="Keywords"/>
+   <base href="https://www.historyplace.com/worldwar2/timeline/"/>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29013255-1">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-29013255-1');
+   </script>
+  </meta>
+ </head>
+ <body alink="#0000FF" bgcolor="#333333" link="#0000FF" text="#000000" vlink="#FF0000">
+  <table align="center" bgcolor="#FFFFFF" border="1" bordercolor="#999999" cellpadding="10" width="975">
+   <tr>
+    <td valign="top">
+     <div align="center">
+      <script type="text/javascript">
+       <!--
+	e9 = new Object();
+    e9.size = "728x90";
+//-->
+      </script>
+      <script src="//tags.expo9.exponential.com/tags/TheHistoryPlace/ROS/tags.js" type="text/javascript">
+      </script>
+     </div>
+     <div align="center">
+      <a id="top" name="top">
+      </a>
+      <img alt="The History Place - World War II in Europe" height="113" src="thp-ad-728-war.jpg" vspace="5" width="728"/>
+     </div>
+     <center>
+      <p>
+       <font color="#0000FF" face="Arial" size="3">
+        <b>
+         Timeline with Photos 
+            and Text
+        </b>
+       </font>
+      </p>
+     </center>
+     <blockquote>
+      <font color="#0000A0">
+       <strong>
+        Jump to:
+       </strong>
+      </font>
+      <strong>
+       <a href="ww2time.htm#1939">
+        1939
+       </a>
+       -
+       <a href="ww2time.htm#1940">
+        1940
+       </a>
+       -
+       <a href="ww2time.htm#1941">
+        1941
+       </a>
+       -
+       <a href="ww2time.htm#1942">
+        1942
+       </a>
+       -
+       <a href="ww2time.htm#1943">
+        1943
+       </a>
+       -
+       <a href="ww2time.htm#1944">
+        1944
+       </a>
+       -
+       <a href="ww2time.htm#1945">
+        1945
+       </a>
+      </strong>
+      <h3>
+       <strong>
+        <a id="1918" name="1918">
+        </a>
+        <font color="#0000A0">
+         1918
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 11
+        </font>
+       </strong>
+       <font size="+0">
+        -
+        <a href="ends2.htm">
+         World 
+            War I ends with German defeat.
+        </a>
+       </font>
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1919
+        </font>
+       </strong>
+      </h3>
+      <strong>
+       <font color="#008040">
+        April 28
+       </font>
+       -
+      </strong>
+      League of Nations founded.
+      <table align="right" cellpadding="5" width="215">
+       <tr>
+        <td align="center" valign="top">
+         <table align="center" border="1" bordercolor="#CCCCCC" height="645" width="200">
+          <tr>
+           <td align="center" height="610" valign="top">
+            <table align="center" width="200">
+             <tr>
+              <td align="center" valign="top">
+               <strong>
+                <font color="#3399FF" face="Arial, Helvetica, sans-serif" size="-2">
+                 ADVERTISEMENT
+                </font>
+               </strong>
+              </td>
+             </tr>
+             <tr>
+              <td align="center" valign="middle">
+               <script type="text/javascript">
+                <!--
+	e9 = new Object();
+    e9.size = "160x600";
+//-->
+               </script>
+               <script src="//tags.expo9.exponential.com/tags/TheHistoryPlace/ROS/tags.js" type="text/javascript">
+               </script>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 28
+        </font>
+        -
+       </strong>
+       <a href="versailles.htm">
+        Signing 
+            of the Treaty of Versailles.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1921
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 29
+        </font>
+        -
+       </strong>
+       Adolf Hitler becomes leader 
+            of National Socialist (Nazi) Party.
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1923
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <a id="putsch" name="putsch">
+        </a>
+        <font color="#008040">
+         November 8/9
+        </font>
+        -
+       </strong>
+       <a href="putsch2.htm">
+        Hitler's Beer Hall Putsch.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1925
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <a id="kampf" name="kampf">
+        </a>
+        <font color="#008040">
+         July 18
+        </font>
+        -
+       </strong>
+       <a href="kampf2.htm">
+        Hitler's book "Mein Kampf" published.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1926
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 8
+        </font>
+        -
+       </strong>
+       Germany admitted to League 
+            of Nations.
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1929
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 29
+        </font>
+        -
+       </strong>
+       Stock Market on Wall Street 
+            crashes.
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1930
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 14
+        </font>
+        -
+       </strong>
+       Germans elect Nazis making 
+            them the 2nd largest political party in Germany.
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1932
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 8
+        </font>
+        -
+       </strong>
+       Franklin Roosevelt elected President 
+            of the United States.
+      </p>
+      <h3>
+       <strong>
+        <a id="1933" name="1933">
+        </a>
+        <font color="#0000A0">
+         1933
+        </font>
+       </strong>
+      </h3>
+      <strong>
+       <font color="#008040">
+        January 30
+       </font>
+       -
+      </strong>
+      <a href="chancll1.htm">
+       Adolf 
+            Hitler becomes Chancellor of Germany.
+      </a>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 27
+        </font>
+        -
+       </strong>
+       <a href="reichstag.htm">
+        The 
+            German Reichstag burns.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 12
+        </font>
+        -
+       </strong>
+       <a href="oranienburg.htm">
+        First 
+            concentration camp opened at Oranienburg outside Berlin.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 23
+        </font>
+        -
+       </strong>
+       <a href="enabling.htm">
+        Enabling 
+            Act gives Hitler dictatorial power.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <a id="dach1" name="dach1">
+        </a>
+        <font color="#008040">
+         April 1
+        </font>
+        -
+       </strong>
+       <a href="boycott.htm">
+        Nazi 
+            boycott of Jewish owned shops.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 10
+        </font>
+        -
+       </strong>
+       <a href="bookburn.htm">
+        Nazis 
+            burn books in Germany.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         In June
+        </font>
+        <font color="#000000">
+         -
+        </font>
+       </strong>
+       <font color="#000000">
+        <a href="dach-early.htm">
+         Nazis open Dachau concentration camp.
+        </a>
+       </font>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 14
+        </font>
+        -
+       </strong>
+       Nazi Party declared Germany's only 
+            political party.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 14
+        </font>
+        -
+       </strong>
+       Germany quits the League 
+            of Nations.
+      </p>
+      <h3>
+       <strong>
+        <a id="1934" name="1934">
+        </a>
+        <font color="#0000A0">
+         1934
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 30
+        </font>
+        -
+       </strong>
+       <a href="roehm.htm">
+        The 
+            Nazi "Night of the Long Knives."
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 25
+        </font>
+        -
+       </strong>
+       Nazis murder Austrian Chancellor 
+            Dollfuss.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 2
+        </font>
+        -
+       </strong>
+       German President Hindenburg 
+            dies.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 19
+        </font>
+        -
+       </strong>
+       <a href="becomes.htm">
+        Adolf 
+            Hitler becomes Führer of Germany.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <a id="1935" name="1935">
+        </a>
+        <font color="#0000A0">
+         1935
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 16
+        </font>
+        -
+       </strong>
+       Hitler violates the Treaty 
+            of Versailles by introducing military conscription.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040" size="+0">
+         September 15
+        </font>
+        <font size="+0">
+         -
+        </font>
+       </strong>
+       <font size="+0">
+        <a href="nurem-laws.htm">
+         German 
+            Jews stripped of rights by Nuremberg Race Laws.
+        </a>
+       </font>
+      </p>
+      <h3>
+       <strong>
+        <a id="1936" name="1936">
+        </a>
+        <font color="#0000A0">
+         1936
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 10
+        </font>
+        -
+       </strong>
+       The German Gestapo is placed 
+            above the law.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 7
+        </font>
+        -
+       </strong>
+       German troops occupy the 
+            Rhineland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 9
+        </font>
+        -
+       </strong>
+       Mussolini's Italian forces 
+            take Ethiopia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 18
+        </font>
+        -
+       </strong>
+       Civil war erupts in Spain.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 1
+        </font>
+        -
+       </strong>
+       Olympic games begin in Berlin.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 1
+        </font>
+        -
+       </strong>
+       Franco declared head of Spanish 
+            State.
+      </p>
+      <h3>
+       <strong>
+        <a id="37" name="37">
+        </a>
+        <font color="#0000A0">
+         1937
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 11
+        </font>
+        -
+       </strong>
+       Soviet leader Josef Stalin begins 
+            a purge of Red Army generals.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 5
+        </font>
+        -
+       </strong>
+       <a href="hossbach.htm">
+        Hitler 
+            reveals war plans during Hossbach Conference.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <a id="1938" name="1938">
+        </a>
+        <font color="#0000A0">
+         1938
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 12/13
+        </font>
+        -
+       </strong>
+       <a href="austria.htm">
+        Germany 
+            announces 'Anschluss' (union) with Austria.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 12
+        </font>
+        -
+       </strong>
+       German military mobilizes.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 30
+        </font>
+        -
+       </strong>
+       British Prime Minister 
+            Chamberlain appeases Hitler at Munich.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 15
+        </font>
+        -
+       </strong>
+       <a href="sudet.htm">
+        German 
+            troops occupy the Sudetenland
+       </a>
+       ; Czech government resigns.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 9/10
+        </font>
+        -
+       </strong>
+       <a href="knacht.htm">
+        Kristallnacht 
+            - The Night of Broken Glass.
+       </a>
+      </p>
+      <p>
+       <font color="#000000">
+        <strong>
+         See also:
+        </strong>
+       </font>
+       <a href="../holocaust/timeline.html">
+        The History Place - Holocaust 
+            Timeline
+       </a>
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1939" name="1939">
+        </a>
+        <font color="#0000A0">
+         1939
+        </font>
+        <font size="-1">
+         <a href="ww2time.htm#top">
+          Return 
+            to Top of Page
+         </a>
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 30, 1939
+        </font>
+        -
+       </strong>
+       <a href="threat.htm">
+        Hitler 
+          threatens Jews during Reichstag speech.
+       </a>
+       <strong>
+        <img align="ABSCENTER" height="18" hspace="3" src="../../sounds/sound.gif" width="19"/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 15/16
+        </font>
+        -
+       </strong>
+       Nazis take Czechoslovakia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 28, 1939
+        </font>
+        -
+       </strong>
+       Spanish Civil war 
+          ends.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 22, 1939
+        </font>
+        -
+       </strong>
+       Nazis sign 'Pact of 
+          Steel' with Italy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 23, 1939
+        </font>
+        -
+       </strong>
+       <a href="pact.htm">
+        Nazis 
+          and Soviets sign Pact.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 25, 1939
+        </font>
+        -
+       </strong>
+       Britain and Poland 
+          sign a Mutual Assistance Treaty.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 31, 1939
+        </font>
+        -
+       </strong>
+       British fleet mobilizes; 
+          Civilian evacuations begin from London.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 1, 1939
+        </font>
+        -
+       </strong>
+       Nazis invade Poland.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 3, 1939
+        </font>
+        -
+       </strong>
+       Britain, France, Australia 
+          and New Zealand declare war on Germany.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 4, 1939
+        </font>
+        -
+       </strong>
+       British Royal Air Force 
+          attacks the German Navy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 5, 1939
+        </font>
+        -
+       </strong>
+       United States proclaims 
+          its neutrality; German troops cross the Vistula River in Poland.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 10, 1939
+        </font>
+        -
+       </strong>
+       Canada declares war 
+          on Germany;
+       <font color="#000000">
+        Battle of the Atlantic
+       </font>
+       begins.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 17, 1939
+        </font>
+        -
+       </strong>
+       Soviets invade Poland.
+      </p>
+      <p>
+       <strong>
+        <a id="parade" name="parade">
+        </a>
+        <font color="#008040">
+         September 27, 1939
+        </font>
+        -
+       </strong>
+       <a href="parade.htm">
+        Warsaw surrenders to Nazis
+       </a>
+       ;
+       <a href="rsha.htm">
+        Reinhard 
+          Heydrich becomes the leader of new Reich Main Security Office (RSHA).
+       </a>
+      </p>
+      <p>
+       <strong>
+        See also:
+       </strong>
+       <a href="../biographies/heydrich-tline.htm">
+        The History Place - Biography of  Reinhard Heydrich.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 29, 1939
+        </font>
+        -
+       </strong>
+       Nazis and Soviets 
+          divide up Poland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         In October
+        </font>
+        -
+       </strong>
+       <a href="euthanasia.htm">
+        Nazis 
+          begin euthanasia on sick and disabled in Germany.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 8, 1939
+        </font>
+        -
+       </strong>
+       Assassination attempt 
+          on Hitler fails.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 30, 1939
+        </font>
+        -
+       </strong>
+       Soviets attack Finland.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 14, 1939
+        </font>
+       </strong>
+       - Soviet Union expelled 
+          from the League of Nations.
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1940" name="1940">
+        </a>
+        <font color="#0000A0">
+         1940
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 8, 1940
+        </font>
+        -
+       </strong>
+       Rationing begins in 
+          Britain.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 12, 1940
+        </font>
+       </strong>
+       -  Finland signs a peace 
+          treaty with Soviets.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 16, 1940
+        </font>
+        -
+       </strong>
+       Germans bomb Scapa 
+          Flow naval base near Scotland.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 9, 1940
+        </font>
+       </strong>
+       - Nazis invade Denmark 
+          and Norway.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 10, 1940
+        </font>
+        -
+       </strong>
+       Nazis invade France, 
+          Belgium, Luxembourg and the Netherlands; Winston Churchill becomes British 
+          Prime Minister.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 15, 1940
+        </font>
+        -
+       </strong>
+       Holland surrenders 
+          to the Nazis.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 26, 1940
+        </font>
+        -
+       </strong>
+       Evacuation of Allied 
+          troops from Dunkirk begins.
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 28, 1940
+        </font>
+       </strong>
+       - Belgium surrenders 
+          to the Nazis.
+      </p>
+      <p>
+       <strong>
+        <a id="dunkirk" name="dunkirk">
+        </a>
+        <font color="#008040">
+         June 3, 1940
+        </font>
+       </strong>
+       - Germans bomb Paris;
+       <a href="dunkirk.htm">
+        Dunkirk evacuation ends.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 10, 1940
+        </font>
+        -
+       </strong>
+       Norway surrenders 
+          to the Nazis; Italy declares war on Britain and France.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 14, 1940
+        </font>
+        -
+       </strong>
+       <a href="enter.htm">
+        Germans 
+          enter Paris.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 16, 1940
+        </font>
+        -
+       </strong>
+       Marshal Pétain 
+          becomes French Prime Minister.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 18, 1940
+        </font>
+        -
+       </strong>
+       <a href="hitmuss.htm">
+        Hitler 
+          and Mussolini meet in Munich
+       </a>
+       ; Soviets begin occupation of the Baltic 
+          States.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 22, 1940
+        </font>
+        -
+       </strong>
+       France signs an armistice 
+          with  Nazi Germany.
+      </p>
+      <p>
+       <strong>
+        <a id="paris" name="paris">
+        </a>
+        <font color="#008040">
+         June 23, 1940
+        </font>
+       </strong>
+       -
+       <a href="paris.htm">
+        Hitler tours Paris.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 28, 1940
+        </font>
+        -
+       </strong>
+       Britain recognizes 
+          General Charles de Gaulle as the Free French leader.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 1, 1940
+        </font>
+        -
+       </strong>
+       German U-boats attack 
+          merchant ships in the Atlantic.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 5, 1940
+        </font>
+        -
+       </strong>
+       French Vichy government 
+          breaks off relations with Britain.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 10, 1940
+        </font>
+        -
+       </strong>
+       Battle of Britain 
+          begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 23, 1940
+        </font>
+        -
+       </strong>
+       Soviets take Lithuania, 
+          Latvia and Estonia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 3-19
+        </font>
+        -
+       </strong>
+       Italians occupy British 
+          Somaliland in East Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 13, 1940
+        </font>
+        -
+       </strong>
+       German bombing offensive 
+          against airfields and factories in England.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 15, 1940
+        </font>
+        -
+       </strong>
+       Air battles and daylight 
+          raids over Britain.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 17, 1940
+        </font>
+        -
+       </strong>
+       Hitler declares a 
+          blockade of the British Isles.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 23/24
+        </font>
+        -
+       </strong>
+       First German air raids 
+          on Central London.
+      </p>
+      <p>
+       <strong>
+        <a id="blitz" name="blitz">
+        </a>
+        <font color="#008040">
+         August 25/26
+        </font>
+       </strong>
+       - First 
+          British air raid on Berlin.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 3, 1940
+        </font>
+        -
+       </strong>
+       Hitler plans
+       <font color="#000000">
+        Operation 
+          Sea Lion
+       </font>
+       (the invasion of Britain).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 7, 1940
+        </font>
+        -
+       </strong>
+       <a href="london-blitz.htm">
+        German 
+          Blitz against Britain begins.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 13, 1940
+        </font>
+        -
+       </strong>
+       Italians invade Egypt.
+      </p>
+      <p>
+       <strong>
+        <a id="home" name="home">
+        </a>
+        <font color="#008040">
+         September 15, 1940 -
+        </font>
+       </strong>
+       <a href="children-shelter.htm">
+        Massive 
+          German air raids on London, Southampton, Bristol, Cardiff, Liverpool and 
+          Manchester.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 16, 1940
+        </font>
+        -
+       </strong>
+       United States military 
+          conscription bill passed.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 27, 1940
+        </font>
+        -
+       </strong>
+       Tripartite (Axis) 
+          Pact signed by Germany, Italy and Japan.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 7, 1940
+        </font>
+        -
+       </strong>
+       German troops enter 
+          Romania.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 12, 1940
+        </font>
+        -
+       </strong>
+       Germans postpone
+       <font color="#000000">
+        Operation 
+          Sea Lion
+       </font>
+       until Spring of 1941.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 28, 1940
+        </font>
+        -
+       </strong>
+       Italy invades Greece.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 5, 1940
+        </font>
+        -
+       </strong>
+       Roosevelt re-elected 
+          as U.S. president.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 10/11
+        </font>
+        -
+       </strong>
+       Torpedo bomber raid 
+          cripples the Italian fleet at Taranto, Italy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 14/15
+        </font>
+        -
+       </strong>
+       Germans bomb Coventry, 
+          England.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 20, 1940
+        </font>
+        -
+       </strong>
+       Hungary joins the 
+          Axis Powers.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 22, 1940
+        </font>
+        -
+       </strong>
+       Greeks defeat the 
+          Italian 9th Army.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 23, 1940
+        </font>
+        -
+       </strong>
+       Romania joins the 
+          Axis Powers.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 9/10
+        </font>
+        -
+       </strong>
+       British begin a western 
+          desert offensive in North Africa against the Italians.
+      </p>
+      <p>
+       <strong>
+        <a id="stpaul" name="stpaul">
+        </a>
+        <font color="#008040">
+         December 29/30 -
+        </font>
+       </strong>
+       <a href="stpaul.htm">
+        Massive 
+          German air raid on London.
+       </a>
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1941" name="1941">
+        </a>
+        <font color="#0000A0">
+         1941
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+       <font size="-1">
+       </font>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 22, 1941
+        </font>
+        -
+       </strong>
+       Tobruk in North Africa 
+          falls to the British and Australians.
+      </p>
+      <table align="right" cellpadding="5" width="365">
+       <tr>
+        <td align="center" valign="top">
+         <table align="center" border="1" bordercolor="#CCCCCC" height="295" width="350">
+          <tr>
+           <td align="center" height="289" valign="top">
+            <table align="center" width="345">
+             <tr>
+              <td align="center" valign="top">
+               <strong>
+                <font color="#3399FF" face="Arial, Helvetica, sans-serif" size="-2">
+                 ADVERTISEMENT
+                </font>
+               </strong>
+              </td>
+             </tr>
+             <tr>
+              <td align="center" valign="middle">
+               <script type="text/javascript">
+                <!--
+	e9 = new Object();
+    e9.size = "300x250";
+//-->
+               </script>
+               <script src="//tags.expo9.exponential.com/tags/TheHistoryPlace/ROS/tags.js" type="text/javascript">
+               </script>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 11, 1941
+        </font>
+        -
+       </strong>
+       British forces advance 
+          into Italian Somaliland in East Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 12, 1941
+        </font>
+        -
+       </strong>
+       German General Erwin 
+          Rommel arrives in Tripoli, North Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 14, 1941
+        </font>
+        -
+       </strong>
+       First units of German 
+          'Afrika Korps' arrive in North Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 7, 1941
+        </font>
+        -
+       </strong>
+       British forces arrive 
+          in Greece.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 11, 1941
+        </font>
+        -
+       </strong>
+       President Roosevelt 
+          signs the Lend-Lease Act.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 27, 1941
+        </font>
+        -
+       </strong>
+       A coup in Yugoslavia 
+          overthrows the pro-Axis government.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 3, 1941
+        </font>
+        -
+       </strong>
+       Pro-Axis regime set 
+          up in Iraq.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 6, 1941
+        </font>
+        -
+       </strong>
+       Nazis invade Greece 
+          and Yugoslavia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 14, 1941
+        </font>
+        -
+       </strong>
+       Rommel attacks Tobruk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 17, 1941
+        </font>
+        -
+       </strong>
+       Yugoslavia surrenders 
+          to the Nazis.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 27, 1941
+        </font>
+        -
+       </strong>
+       Greece surrenders 
+          to the Nazis.
+      </p>
+      <p>
+       <strong>
+        <a id="rommel" name="rommel">
+        </a>
+        <font color="#008040">
+         May 1, 1941
+        </font>
+       </strong>
+       -
+       <a href="rommel.htm">
+        German attack on Tobruk is repulsed.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 10, 1941
+        </font>
+        -
+       </strong>
+       Deputy Führer 
+          Rudolph Hess flies to Scotland.
+      </p>
+      <p>
+       <strong>
+        See also:
+       </strong>
+       <a href="../biographies/hess-tline.htm">
+        The History Place - Biography 
+          of Rudolph Hess
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 10/11
+        </font>
+        -
+       </strong>
+       Heavy German bombing 
+          of London; British bomb Hamburg.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 15, 1941
+        </font>
+        -
+       </strong>
+       <font color="#000000">
+        Operation 
+          Brevity
+       </font>
+       begins (the British counter-attack in Egypt).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 24, 1941
+        </font>
+        -
+       </strong>
+       Sinking of the British 
+          ship Hood by the Bismarck.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 27, 1941
+        </font>
+        -
+       </strong>
+       Sinking of the Bismarck 
+          by the British Navy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 4, 1941
+        </font>
+        -
+       </strong>
+       Pro-Allied government 
+          installed in Iraq.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 8, 1941
+        </font>
+        -
+       </strong>
+       Allies invade Syria 
+          and Lebanon.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 14, 1941
+        </font>
+        -
+       </strong>
+       United States freezes 
+          German and Italian assets in America.
+      </p>
+      <p>
+       <strong>
+        <a id="russia" name="russia">
+        </a>
+        <font color="#008040">
+         June 22, 1941
+        </font>
+       </strong>
+       -
+       <font color="#000000">
+        <a href="russia.htm">
+         Germany attacks Soviet Union 
+          as Operation Barbarossa begins.
+        </a>
+       </font>
+      </p>
+      <p>
+       <strong>
+        <a id="einsatz" name="einsatz">
+        </a>
+        <font color="#008040">
+         In June
+        </font>
+       </strong>
+       -
+       <a href="einsatz.htm">
+        Nazi 
+          SS-Einsatzgruppen begin mass murder.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 28, 1941
+        </font>
+        -
+       </strong>
+       Germans capture Minsk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 3, 1941
+        </font>
+        -
+       </strong>
+       Stalin calls for a 
+          scorched earth policy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 10, 1941
+        </font>
+        -
+       </strong>
+       Germans cross the 
+          River Dnieper in the Ukraine.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 12, 1941
+        </font>
+        -
+       </strong>
+       Mutual Assistance 
+          agreement between British and Soviets.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 14, 1941
+        </font>
+        -
+       </strong>
+       British occupy Syria.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 26, 1941
+        </font>
+        -
+       </strong>
+       Roosevelt freezes 
+          Japanese assets in United States and suspends relations.
+      </p>
+      <p>
+       <strong>
+        <a id="order1" name="order1">
+        </a>
+        <font color="#008040">
+         July 31, 1941
+        </font>
+       </strong>
+       -
+       <a href="order1.htm">
+        Göring instructs Heydrich to prepare for the 
+          Final Solution.
+       </a>
+       <font color="#000000">
+       </font>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 1, 1941
+        </font>
+        -
+       </strong>
+       United States announces 
+          an oil embargo against aggressor states.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 14, 1941
+        </font>
+        -
+       </strong>
+       <a href="atlantic-chart.htm">
+        Roosevelt 
+          and Churchill announce the Atlantic Charter.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 20, 1941
+        </font>
+        -
+       </strong>
+       Nazi siege of Leningrad 
+          begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 1, 1941
+        </font>
+        -
+       </strong>
+       <a href="star.htm">
+        Nazis 
+          order Jews to wear yellow stars.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 3, 1941
+        </font>
+        -
+       </strong>
+       First experimental 
+          use of gas chambers at Auschwitz.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 19, 1941
+        </font>
+        -
+       </strong>
+       Nazis take Kiev.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 29, 1941
+        </font>
+        -
+       </strong>
+       Nazis murder 33,771 
+          Jews at Kiev.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 2, 1941
+        </font>
+        -
+       </strong>
+       <font color="#000000">
+        Operation 
+          Typhoon
+       </font>
+       begins (German advance on Moscow).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 16, 1941
+        </font>
+        -
+       </strong>
+       Germans take Odessa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 24, 1941
+        </font>
+        -
+       </strong>
+       Germans take Kharkov.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 30, 1941
+        </font>
+        -
+       </strong>
+       Germans reach Sevastopol.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 13, 1941
+        </font>
+        -
+       </strong>
+       British aircraft carrier 
+          Ark Royal is sunk off Gibraltar by a U-boat.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 20, 1941
+        </font>
+        -
+       </strong>
+       Germans take Rostov.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 27, 1941
+        </font>
+        -
+       </strong>
+       Soviet troops retake 
+          Rostov.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 5, 1941
+        </font>
+        -
+       </strong>
+       German attack on Moscow 
+          is abandoned.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 6, 1941
+        </font>
+        -
+       </strong>
+       Soviet Army launches 
+          a major counter-offensive around Moscow.
+      </p>
+      <p>
+       <strong>
+        <a id="pearl" name="pearl">
+        </a>
+        <font color="#008040">
+         December 7, 1941
+        </font>
+       </strong>
+       -
+       <a href="pearl.htm">
+        Japanese bomb Pearl Harbor
+       </a>
+       ;
+       <a href="nacht.htm">
+        Hitler 
+          issues the Night and Fog decree.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 8, 1941
+        </font>
+        -
+       </strong>
+       <a href="declare.htm">
+        United 
+          States
+       </a>
+       and Britain declare war on Japan.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 11, 1941
+        </font>
+        -
+       </strong>
+       <a href="germany-declares.htm">
+        Hitler declares war on the United States.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 16, 1941
+        </font>
+        -
+       </strong>
+       Rommel begins a retreat 
+          to El Agheila in North Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 19, 1941
+        </font>
+        -
+       </strong>
+       Hitler takes complete 
+          control of the German Army.
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1942" name="1942">
+        </a>
+        <font color="#0000A0">
+         1942
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+       <font size="-1">
+       </font>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 1, 1942
+        </font>
+        -
+       </strong>
+       Declaration of the 
+          United Nations signed by 26 Allied nations.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 13, 1942
+        </font>
+        -
+       </strong>
+       Germans begin a U-boat 
+          offensive along east coast of USA.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 20, 1942
+        </font>
+        -
+       </strong>
+       <a href="wannsee2.htm">
+        SS 
+          Leader Heydrich holds the Wannsee Conference to coordinate the "Final 
+          Solution of the Jewish Question."
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 21, 1942
+        </font>
+        -
+       </strong>
+       Rommel's counter-offensive 
+          from El Agheila begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 26, 1942
+        </font>
+        -
+       </strong>
+       First American forces 
+          arrive in Great Britain.
+      </p>
+      <p>
+       <strong>
+        <a id="reloc" name="reloc">
+        </a>
+        <font color="#008040">
+         In April
+        </font>
+       </strong>
+       -
+       <a href="reloc.htm">
+        Japanese-Americans 
+          sent to relocation centers.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 23, 1942
+        </font>
+        -
+       </strong>
+       German air raids 
+          begin against cathedral cities in Britain.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 8, 1942
+        </font>
+        -
+       </strong>
+       German summer offensive 
+          begins in the Crimea.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 26, 1942
+        </font>
+        -
+       </strong>
+       Rommel begins an offensive 
+          against the Gazala Line.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 27, 1942
+        </font>
+        -
+       </strong>
+       SS Leader Heydrich 
+          attacked in Prague.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 30, 1942
+        </font>
+        -
+       </strong>
+       First thousand-bomber 
+          British air raid (against Cologne).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         In June
+        </font>
+        -
+       </strong>
+       Mass murder of Jews by 
+          gassing begins at Auschwitz.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 4, 1942
+        </font>
+        -
+       </strong>
+       Heydrich dies of wounds.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 5, 1942
+        </font>
+        -
+       </strong>
+       Germans besiege Sevastopol.
+      </p>
+      <p>
+       <strong>
+        <a id="lidice" name="lidice">
+        </a>
+        <font color="#008040">
+         June 10, 1942
+        </font>
+        -
+       </strong>
+       <a href="lidice.htm">
+        Nazis liquidate Lidice in reprisal for Heydrich's 
+          assassination.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 21, 1942
+        </font>
+        -
+       </strong>
+       Rommel captures Tobruk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 25, 1942
+        </font>
+        -
+       </strong>
+       General Dwight D. Eisenhower arrives 
+          in London.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 30, 1942
+        </font>
+        -
+       </strong>
+       Rommel reaches El 
+          Alamein near Cairo, Egypt.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 1-30
+        </font>
+        -
+       </strong>
+       First Battle of El Alamein.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 3, 1942
+        </font>
+        -
+       </strong>
+       Germans take Sevastopol.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 5, 1942
+        </font>
+        -
+       </strong>
+       Soviet resistance 
+          in the Crimea ends.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 9, 1942
+        </font>
+        -
+       </strong>
+       Germans begin a drive 
+          toward Stalingrad in the USSR.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 22, 1942
+        </font>
+        -
+       </strong>
+       First deportations 
+          from the Warsaw Ghetto to concentration camps; Treblinka extermination 
+          camp opened.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 7, 1942
+        </font>
+        -
+       </strong>
+       British General Bernard 
+          Montgomery takes command of Eighth Army in North Africa.
+      </p>
+      <p>
+       <strong>
+        <a id="gunner" name="gunner">
+        </a>
+        <font color="#008040">
+         August 12, 1942
+        </font>
+       </strong>
+       - Stalin and Churchill meet in Moscow.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 17, 1942
+        </font>
+        -
+       </strong>
+       First all-American
+       <a href="gunner.htm">
+        air attack
+       </a>
+       in Europe.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 23, 1942
+        </font>
+        -
+       </strong>
+       Massive German air 
+          raid on Stalingrad.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 2, 1942
+        </font>
+        -
+       </strong>
+       Rommel driven back 
+          by Montgomery in the Battle of Alam Halfa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 13, 1942
+        </font>
+        -
+       </strong>
+       Battle of Stalingrad 
+          begins.
+      </p>
+      <p>
+       <strong>
+        <a id="engineer" name="engineer">
+        </a>
+        <font color="#008040">
+         October 5, 1942
+        </font>
+       </strong>
+       -
+       <a href="engineer.htm">
+        A German eyewitness observes SS mass murder.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 18, 1942
+        </font>
+        -
+       </strong>
+       Hitler orders the 
+          execution of all captured British commandos.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 1, 1942
+        </font>
+        -
+       </strong>
+       <a href="mont.htm">
+        Operation 
+          Supercharge (Allies break Axis lines at El Alamein).
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 8, 1942
+        </font>
+        -
+       </strong>
+       <font color="#000000">
+        Operation 
+          Torch
+       </font>
+       begins (U.S. invasion of North Africa).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 11, 1942
+        </font>
+        -
+       </strong>
+       Germans and Italians 
+          invade unoccupied Vichy France.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 19, 1942
+        </font>
+        -
+       </strong>
+       Soviet counter-offensive 
+          at Stalingrad begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 2, 1942
+        </font>
+        -
+       </strong>
+       Professor Enrico Fermi 
+          sets up an atomic reactor in Chicago.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 13, 1942
+        </font>
+        -
+       </strong>
+       Rommel withdraws from 
+          El Agheila.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 16, 1942
+        </font>
+        -
+       </strong>
+       Soviets defeat Italian 
+          troops on the River Don in the USSR.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 17, 1942
+        </font>
+        -
+       </strong>
+       British Foreign Secretary 
+          Eden tells the British House of Commons of mass executions of Jews by 
+          Nazis; U.S. declares those crimes will be avenged.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 31, 1942
+        </font>
+        -
+       </strong>
+       Battle of the Barents 
+          Sea between German and British ships.
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1943" name="1943">
+        </a>
+        <font color="#0000A0">
+         1943
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+       <font size="-1">
+       </font>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 2/3
+        </font>
+        -
+       </strong>
+       Germans begin a withdrawal 
+          from the Caucasus.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 10, 1943
+        </font>
+        -
+       </strong>
+       Soviets begin an offensive 
+          against the Germans in Stalingrad.
+      </p>
+      <p>
+       <strong>
+        <a id="casa" name="casa">
+        </a>
+        <font color="#008040">
+         January 14-24
+        </font>
+       </strong>
+       -
+       <a href="casablanca.htm">
+        Casablanca 
+          conference between Churchill and Roosevelt.
+       </a>
+       During the conference, 
+          Roosevelt announces the war can end only with "unconditional German 
+          surrender."
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 23, 1943
+        </font>
+        -
+       </strong>
+       <a href="tripoli.htm">
+        Montgomery's 
+          Eighth Army takes Tripoli.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 27, 1943
+        </font>
+        -
+       </strong>
+       First bombing raid 
+          by Americans on Germany (at Wilhelmshaven).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 2, 1943
+        </font>
+        -
+       </strong>
+       Germans surrender at 
+          Stalingrad in the first big defeat of Hitler's armies.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 8, 1943
+        </font>
+        -
+       </strong>
+       Soviet troops take 
+          Kursk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 14-25
+        </font>
+        -
+       </strong>
+       Battle of Kasserine Pass 
+          between the U.S. 1st Armored Division and German Panzers in North Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 16, 1943
+        </font>
+        -
+       </strong>
+       Soviets re-take Kharkov.
+      </p>
+      <p>
+       <strong>
+        <a id="rose" name="rose">
+        </a>
+        <font color="#008040">
+         February 18, 1943
+        </font>
+       </strong>
+       - 
+          Nazis arrest White Rose resistance leaders in Munich.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 2, 1943
+        </font>
+        -
+       </strong>
+       Germans begin a withdrawal 
+          from Tunisia, Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 15, 1943
+        </font>
+        -
+       </strong>
+       Germans re-capture 
+          Kharkov.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 16-20
+        </font>
+        -
+       </strong>
+       Battle of Atlantic 
+          climaxes with 27 merchant
+       <a href="ship-sinks.htm">
+        ships sunk
+       </a>
+       by German 
+          U-boats.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 20-28
+        </font>
+        -
+       </strong>
+       Montgomery's Eighth 
+          Army breaks through the Mareth Line in Tunisia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 6/7
+        </font>
+        -
+       </strong>
+       Axis forces in Tunisia 
+          begin a withdrawal toward Enfidaville as American and British forces link.
+      </p>
+      <p>
+       <strong>
+        <a id="warsaw" name="warsaw">
+        </a>
+        <font color="#008040">
+         April 19, 1943
+        </font>
+       </strong>
+       -
+       <a href="warsaw.htm">
+        Waffen-SS attacks Jewish resistance in the Warsaw 
+          ghetto.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 7, 1943
+        </font>
+        -
+       </strong>
+       Allies take Tunisia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 13, 1943
+        </font>
+        -
+       </strong>
+       German and Italian 
+          troops surrender in North Africa.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 16, 1943
+        </font>
+        -
+       </strong>
+       Jewish resistance 
+          in the Warsaw Ghetto ends.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 16/17
+        </font>
+        -
+       </strong>
+       British air raid on the 
+          Ruhr.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 22, 1943
+        </font>
+        -
+       </strong>
+       Dönitz suspends 
+          U-boat operations in the North Atlantic.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 10, 1943
+        </font>
+        -
+       </strong>
+       '
+       <font color="#000000">
+        Pointblank'
+       </font>
+       directive to improve Allied bombing strategy issued.
+      </p>
+      <p>
+       <strong>
+        <a id="sicily" name="sicily">
+        </a>
+        <font color="#008040">
+         June 11, 1943
+        </font>
+       </strong>
+       - Himmler orders the liquidation of all Jewish ghettos in Poland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 5, 1943
+        </font>
+        -
+       </strong>
+       Germans begin their 
+          last offensive against Kursk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 9/10
+        </font>
+        -
+       </strong>
+       <a href="sicily-ship.htm">
+        Allies 
+          land in Sicily.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 19, 1943
+        </font>
+        -
+       </strong>
+       Allies bomb Rome.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 22, 1943
+        </font>
+        -
+       </strong>
+       Americans capture 
+          Palermo, Sicily.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 24, 1943
+        </font>
+        -
+       </strong>
+       British bombing raid 
+          on Hamburg.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 25/26
+        </font>
+        -
+       </strong>
+       Mussolini arrested and 
+          the Italian Fascist government falls; Marshal Pietro Badoglio takes over 
+          and negotiates with Allies.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 27/28
+        </font>
+        -
+       </strong>
+       Allied air raid causes 
+          a firestorm in Hamburg.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 12-17
+        </font>
+        -
+       </strong>
+       Germans evacuate Sicily.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 17, 1943
+        </font>
+        -
+       </strong>
+       American daylight 
+          air raids on Regensburg and Schweinfurt in Germany; Allies reach Messina, 
+          Sicily.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 23, 1943
+        </font>
+        -
+       </strong>
+       Soviet troops recapture 
+          Kharkov.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 8, 1943
+        </font>
+        -
+       </strong>
+       Italian surrender 
+          to Allies is announced.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 9, 1943
+        </font>
+        -
+       </strong>
+       Allied landings at 
+          Salerno and Taranto.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 11, 1943
+        </font>
+        -
+       </strong>
+       Germans occupy Rome.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 12, 1943
+        </font>
+        -
+       </strong>
+       Germans rescue Mussolini.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 23, 1943
+        </font>
+        -
+       </strong>
+       Mussolini re-establishes 
+          a Fascist government.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 1, 1943
+        </font>
+        -
+       </strong>
+       Allies enter Naples, 
+          Italy.
+      </p>
+      <p>
+       <strong>
+        <a id="poznan" name="poznan">
+        </a>
+        <font color="#008040">
+         October 4, 1943
+        </font>
+        -
+       </strong>
+       <a href="posen.htm">
+        SS-Reichsführer Himmler gives speech 
+          at Posen.
+       </a>
+       <strong>
+        <img align="ABSCENTER" height="18" hspace="3" src="../../sounds/sound.gif" width="19"/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 13, 1943
+        </font>
+        -
+       </strong>
+       Italy declares war 
+          on Germany; Second American air raid on Schweinfurt.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 6, 1943
+        </font>
+        -
+       </strong>
+       Russians recapture 
+          Kiev in the Ukraine.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 18, 1943
+        </font>
+        -
+       </strong>
+       Large British air 
+          raid on Berlin.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 28, 1943
+        </font>
+        -
+       </strong>
+       <a href="teheran.htm">
+        Roosevelt, 
+          Churchill, Stalin meet at Teheran.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 24-26
+        </font>
+        -
+       </strong>
+       Soviets launch offensives 
+          on the Ukrainian front.
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1944" name="1944">
+        </a>
+        <font color="#0000A0">
+         1944
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+       <font size="-1">
+       </font>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 6, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops advance 
+          into Poland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 17, 1944
+        </font>
+        -
+       </strong>
+       <a href="cassino.htm">
+        First 
+          attack toward Cassino, Italy.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 22, 1944
+        </font>
+        -
+       </strong>
+       Allies land at Anzio in Italy.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 27, 1944
+        </font>
+        -
+       </strong>
+       Leningrad relieved 
+          after a 900-day siege.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 15-18
+        </font>
+        -
+       </strong>
+       Allies bomb the monastery 
+          at Monte Cassino.
+      </p>
+      <table align="right" cellpadding="5" width="365">
+       <tr>
+        <td align="center" valign="top">
+         <table align="center" border="1" bordercolor="#CCCCCC" height="295" width="350">
+          <tr>
+           <td align="center" height="289" valign="top">
+            <table align="center" width="345">
+             <tr>
+              <td align="center" valign="top">
+               <strong>
+                <font color="#3399FF" face="Arial, Helvetica, sans-serif" size="-2">
+                 ADVERTISEMENT
+                </font>
+               </strong>
+              </td>
+             </tr>
+             <tr>
+              <td align="center" valign="middle">
+               <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+               </script>
+               <!-- Multipage 300x250 2020 -->
+               <ins class="adsbygoogle" data-ad-client="ca-pub-5078251753055915" data-ad-format="auto" data-ad-slot="6032868180" data-full-width-responsive="true" style="display:block">
+               </ins>
+               <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+               </script>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 16, 1944
+        </font>
+        -
+       </strong>
+       <a href="anzio.htm">
+        Germans 
+          counter-attack against the Anzio beachhead.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 4, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops begin 
+          an offensive on the Belorussian front; First major daylight bombing raid 
+          on Berlin by the Allies.
+      </p>
+      <p>
+       <strong>
+        <a id="damage" name="damage">
+        </a>
+        <font color="#008040">
+         March 15, 1944
+        </font>
+       </strong>
+       - Second Allied attempt to capture Monte Cassino begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 18, 1944
+        </font>
+        -
+       </strong>
+       British drop 3000 
+          tons of bombs during an
+       <a href="damage.htm">
+        air raid
+       </a>
+       on Hamburg, 
+          Germany.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 8, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops begin 
+          an offensive to liberate Crimea.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 9, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops recapture 
+          Sevastopol.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 11, 1944
+        </font>
+        -
+       </strong>
+       Allies attack the 
+          Gustav Line south of Rome.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 12, 1944
+        </font>
+        -
+       </strong>
+       Germans surrender 
+          in the Crimea.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 15, 1944
+        </font>
+        -
+       </strong>
+       Germans withdraw to 
+          the Adolf Hitler Line.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 25, 1944
+        </font>
+        -
+       </strong>
+       Germans retreat from 
+          Anzio.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 5, 1944
+        </font>
+        -
+       </strong>
+       Allies enter Rome.
+      </p>
+      <p>
+       <strong>
+        <a id="dday" name="dday">
+        </a>
+        <font color="#008040">
+         June 6, 1944
+        </font>
+       </strong>
+       -
+       <a href="dday.htm">
+        D-Day landings on the northern coast of France.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 9, 1944
+        </font>
+        -
+       </strong>
+       Soviet offensive against 
+          the Finnish front begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 10, 1944
+        </font>
+        -
+       </strong>
+       <a href="oradour.htm">
+        Nazis 
+          liquidate the town of Oradour-sur-Glane in France.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 13, 1944
+        </font>
+        -
+       </strong>
+       <a href="v1.htm">
+        First 
+          German V-1 rocket attack on Britain.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 22, 1944
+        </font>
+        -
+       </strong>
+       <font color="#000000">
+        Operation 
+          Bagration
+       </font>
+       begins (the Soviet summer offensive).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 27, 1944
+        </font>
+        -
+       </strong>
+       <a href="cherbourg.htm">
+        U.S. 
+          troops liberate Cherbourg, France.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 3, 1944
+        </font>
+        -
+       </strong>
+       'Battle of the Hedgerows' 
+          in Normandy; Soviets capture Minsk.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 9, 1944
+        </font>
+        -
+       </strong>
+       British and Canadian 
+          troops capture Caen, France.
+      </p>
+      <p>
+       <strong>
+        <a id="st-lo" name="st-lo">
+        </a>
+        <font color="#008040">
+         July 18, 1944
+        </font>
+       </strong>
+       -
+       <a href="st-lo.htm">
+        U.S. troops reach St. Lô, France.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 20, 1944
+        </font>
+        -
+       </strong>
+       Assassination 
+          attempt by German Army officers against Hitler fails.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 24, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops liberate 
+          first concentration camp at Majdanek.
+      </p>
+      <p>
+       <strong>
+        <a id="coutances" name="coutances">
+        </a>
+        <font color="#008040">
+         July 25-30
+        </font>
+       </strong>
+       - Operation Cobra (U.S. troops break out west of St. Lô).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 28, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops take 
+          Brest-Litovsk. U.S. troops take
+       <a href="coutances.htm">
+        Coutances
+       </a>
+       .
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 1, 1944
+        </font>
+        -
+       </strong>
+       Polish Home Army uprising 
+          against Nazis in Warsaw begins; U.S. troops reach Avranches.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 4, 1944
+        </font>
+        -
+       </strong>
+       Anne Frank and family 
+          arrested by the Gestapo in Amsterdam, Holland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 7, 1944
+        </font>
+        -
+       </strong>
+       Germans begin a major 
+          counter-attack toward Avranches.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 15, 1944
+        </font>
+        -
+       </strong>
+       Operation Dragoon 
+          begins (the Allied invasion of Southern France).
+      </p>
+      <p>
+       <strong>
+        <a id="falaise" name="falaise">
+        </a>
+        <font color="#008040">
+         August 19, 1944
+        </font>
+       </strong>
+       - Resistance uprising in Paris.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 19/20
+        </font>
+        -
+       </strong>
+       Soviet offensive in the 
+          Balkans begins with an attack on Romania.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 20, 1944
+        </font>
+        <font color="#000000">
+         -
+        </font>
+       </strong>
+       <font color="#000000">
+        <a href="falaise.htm">
+         Allies encircle Germans in the Falaise Pocket.
+        </a>
+       </font>
+      </p>
+      <p>
+       <strong>
+        <a id="libparis" name="libparis">
+        </a>
+        <font color="#008040">
+         August 25, 1944
+        </font>
+       </strong>
+       -
+       <a href="libparis.htm">
+        Liberation of Paris.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 29, 1944
+        </font>
+        -
+       </strong>
+       Slovak uprising begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 31, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops take 
+          Bucharest.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 1-4
+        </font>
+        -
+       </strong>
+       <a href="belgium.htm">
+        Verdun, 
+          Dieppe, Artois, Rouen, Abbeville, Antwerp and Brussels liberated by Allies.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 4, 1944
+        </font>
+        -
+       </strong>
+       Finland and the Soviet 
+          Union agree to a cease-fire.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 13, 1944
+        </font>
+        -
+       </strong>
+       <a href="sieg.htm">
+        U.S. 
+          troops reach the Siegfried Line in western Germany.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 17, 1944
+        </font>
+        -
+       </strong>
+       <a href="mkt-garden.htm">
+        Operation 
+          Market Garden begins
+       </a>
+       (Allied airborne assault on
+       <a href="holland.htm">
+        Holland
+       </a>
+       ).
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 26, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops occupy 
+          Estonia.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 2, 1944
+        </font>
+        -
+       </strong>
+       Warsaw Uprising ends 
+          as the Polish Home Army surrenders to the Germans.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 10-29
+        </font>
+        -
+       </strong>
+       Soviet troops capture 
+          Riga.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 14, 1944
+        </font>
+        -
+       </strong>
+       Allies liberate Athens; 
+          Rommel commits suicide.
+      </p>
+      <p>
+       <strong>
+        <a id="aachen" name="aachen">
+        </a>
+        <font color="#008040">
+         October 21, 1944
+        </font>
+        -
+       </strong>
+       <a href="aachen.htm">
+        Massive German surrender at Aachen, Germany.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 30, 1944
+        </font>
+        -
+       </strong>
+       Last use of gas chambers 
+          at Auschwitz.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 20, 1944
+        </font>
+        -
+       </strong>
+       French troops drive 
+          through the 'Beffort Gap' to reach the Rhine.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         November 24, 1944
+        </font>
+        -
+       </strong>
+       French capture Strasbourg.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 4, 1944
+        </font>
+        -
+       </strong>
+       Civil War in Greece; 
+          Athens placed under martial law.
+      </p>
+      <p>
+       <strong>
+        <a id="bulge" name="bulge">
+        </a>
+        <font color="#008040">
+         December 16-27
+        </font>
+       </strong>
+       -
+       <a href="bulge.htm">
+        Battle 
+          of the Bulge in the Ardennes.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 17, 1944
+        </font>
+        -
+       </strong>
+       <a href="malmedy.htm">
+        Waffen-SS murder 81 U.S. POWs at Malmedy.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 26, 1944
+        </font>
+        -
+       </strong>
+       Patton relieves
+       <a href="bastogne.htm">
+        Bastogne
+       </a>
+       .
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         December 27, 1944
+        </font>
+        -
+       </strong>
+       Soviet troops besiege 
+          Budapest.
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <blockquote>
+      <h3>
+       <strong>
+        <a id="1945" name="1945">
+        </a>
+        <font color="#0000A0">
+         1945
+        </font>
+        <a href="ww2time.htm#top">
+         <font size="-1">
+          Return 
+            to Top of Page
+         </font>
+        </a>
+       </strong>
+       <font size="-1">
+       </font>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 1-17
+        </font>
+        -
+       </strong>
+       Germans withdraw from 
+          the Ardennes.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 16, 1945
+        </font>
+        -
+       </strong>
+       U.S. 1st and 3rd Armies 
+          link up after a month long separation during the Battle of the Bulge.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 17, 1945
+        </font>
+        -
+       </strong>
+       Soviet troops capture 
+          Warsaw, Poland.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         January 26, 1945
+        </font>
+        -
+       </strong>
+       Soviet troops liberate 
+          Auschwitz.
+      </p>
+      <p>
+       <strong>
+        <a id="yalta" name="yalta">
+        </a>
+        <font color="#008040">
+         February 4-11
+        </font>
+       </strong>
+       -
+       <a href="yalta.htm">
+        Roosevelt, 
+          Churchill, Stalin meet at Yalta.
+       </a>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         February 13/14
+        </font>
+        -
+       </strong>
+       Dresden is destroyed 
+          by a firestorm after Allied bombing raids.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 6, 1945
+        </font>
+        -
+       </strong>
+       Last German offensive 
+          of the war begins to defend oil fields in Hungary.
+      </p>
+      <p>
+       <strong>
+        <a id="rhine" name="rhine">
+        </a>
+        <font color="#008040">
+         March 7, 1945
+        </font>
+       </strong>
+       -
+       <a href="rhine.htm">
+        Allies take Cologne and establish a bridge across 
+          the Rhine at Remagen.
+       </a>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         March 30, 1945
+        </font>
+        -
+       </strong>
+       Soviet troops capture 
+          Danzig.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         In April
+        </font>
+        -
+       </strong>
+       <a href="ikeart.htm">
+        Allies 
+          discover stolen Nazi art and wealth hidden in German salt mines.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 1, 1945
+        </font>
+        -
+       </strong>
+       U.S. troops encircle 
+          Germans in the Ruhr;
+       <a href="florence.htm">
+        Allied offensive in northern 
+            Italy.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <a id="buchen" name="buchen">
+        </a>
+        <font color="#008040">
+         April 12, 1945
+        </font>
+       </strong>
+       -
+       <a href="buchen.htm">
+        Allies liberate Buchenwald
+       </a>
+       and Belsen concentration 
+          camps; 
+          President Roosevelt dies. Harry Truman becomes President.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 16, 1945
+        </font>
+        -
+       </strong>
+       Soviet troops begin 
+          their final attack on Berlin; Americans enter Nuremberg.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 18, 1945
+        </font>
+        -
+       </strong>
+       German forces in 
+          the Ruhr surrender.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 21, 1945
+        </font>
+        -
+       </strong>
+       Soviets reach Berlin.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 28, 1945
+        </font>
+        -
+       </strong>
+       Mussolini is captured 
+          and hanged by Italian partisans; Allies take Venice.
+      </p>
+      <p>
+       <strong>
+        <a id="dachau" name="dachau">
+        </a>
+        <font color="#008040">
+         April 29, 1945
+        </font>
+       </strong>
+       -
+       <a href="dachau.htm">
+        U.S. 7th Army liberates Dachau.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         April 30, 1945
+        </font>
+        -
+       </strong>
+       <a href="death.htm">
+        Adolf 
+          Hitler commits suicide.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 2, 1945
+        </font>
+        -
+       </strong>
+       German troops in Italy 
+          surrender.
+      </p>
+      <p>
+       <strong>
+        <a id="keitel" name="keitel">
+        </a>
+        <font color="#008040">
+         May 7, 1945
+        </font>
+       </strong>
+       -
+       <a href="keitel.htm">
+        Unconditional surrender of all German forces to Allies.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 8, 1945
+        </font>
+        -
+       </strong>
+       <a href="ve.htm">
+        V-E 
+          (Victory in Europe) Day.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 9, 1945
+        </font>
+        -
+       </strong>
+       Hermann Göring 
+          is captured by members of the U.S. 7th Army.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         May 23, 1945
+        </font>
+        -
+       </strong>
+       SS-Reichsführer 
+          Himmler commits suicide; German High Command and Provisional Government 
+          imprisoned.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 5, 1945
+        </font>
+        -
+       </strong>
+       Allies divide up Germany 
+          and Berlin and take over the government.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         June 26, 1945
+        </font>
+        -
+       </strong>
+       <a href="un-charter.htm">
+        United 
+          Nations Charter is signed in San Francisco.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 1, 1945
+        </font>
+        -
+       </strong>
+       American, British, and 
+          French troops move into Berlin.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 16, 1945
+        </font>
+        -
+       </strong>
+       First U.S. atomic 
+          bomb test; Potsdam Conference begins.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         July 26, 1945
+        </font>
+        -
+       </strong>
+       Atlee succeeds Churchill 
+          as British Prime Minister.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 6, 1945
+        </font>
+        -
+       </strong>
+       First atomic bomb dropped, 
+          on Hiroshima, Japan.
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 8, 1945
+        </font>
+        -
+       </strong>
+       Soviets declares war 
+          on Japan and invade Manchuria.
+      </p>
+      <p>
+       <strong>
+        <a id="abomb2" name="abomb2">
+        </a>
+        <font color="#008040">
+         August 9, 1945
+        </font>
+       </strong>
+       -
+       <a href="abomb2.htm">
+        Second atomic bomb dropped, on Nagasaki, Japan.
+       </a>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         August 14, 1945
+        </font>
+        -
+       </strong>
+       <a href="truman.htm">
+        Japanese 
+          agree to unconditional surrender.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         September 2, 1945
+        </font>
+        -
+       </strong>
+       <a href="sign.htm">
+        Japanese 
+          sign the surrender agreement;
+       </a>
+       <a href="vj.htm">
+        V-J (Victory 
+            over Japan) Day.
+       </a>
+      </p>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 24, 1945
+        </font>
+        -
+       </strong>
+       United Nations is 
+          born.
+      </p>
+      <p>
+       <strong>
+        <a id="nurem" name="nurem">
+        </a>
+        <font color="#008040">
+         November 20, 1945
+        </font>
+       </strong>
+       -
+       <a href="nurem.htm">
+        Nuremberg war crimes trials begin.
+       </a>
+      </p>
+      <h3>
+       <strong>
+        <font color="#0000A0">
+         1946
+        </font>
+       </strong>
+      </h3>
+      <p>
+       <strong>
+        <font color="#008040">
+         October 16
+        </font>
+        -
+       </strong>
+       Hermann Göring commits 
+          suicide two hours before his scheduled execution.
+      </p>
+      <p>
+       <a href="statistics.htm">
+        Statistics of World War II
+       </a>
+      </p>
+      <p align="center">
+       <strong>
+        <font size="-1">
+         Copyright © 1996 The History 
+          Place™ All Rights Reserved
+        </font>
+       </strong>
+      </p>
+     </blockquote>
+     <p align="center">
+      <img height="1" src="thin-blue-700.jpg" width="700"/>
+     </p>
+     <p align="left">
+      <strong>
+       See also:
+      </strong>
+      The History Place three-part narrative history of Adolf Hitler (62 chapters)
+      <br/>
+      <a href="../riseofhitler/index.html">
+       I. The Rise of Hitler
+      </a>
+      - from unknown to dictator of Germany.
+      <br/>
+      <a href="../triumph/index.html">
+       II. The Triumph of Hitler
+      </a>
+      - the prewar years of Nazi Germany.
+      <br/>
+      <a href="../defeat/index.html">
+       III. The Defeat of Hitler
+      </a>
+      - the quest for a Nazi empire.
+     </p>
+     <p>
+      [
+      <a href="../../index.html">
+       The History Place Main Page
+      </a>
+      |
+      <a href="../../unitedstates/revolution/index.html">
+       American 
+        Revolution
+      </a>
+      |
+      <a href="../../lincoln/index.html">
+       Abraham Lincoln
+      </a>
+      |
+      <a href="../../civilwar/index.html">
+       U.S. Civil War
+      </a>
+      |
+      <a href="../../unitedstates/childlabor/index.html">
+       Child 
+          Labor in America 1908-1912
+      </a>
+      |
+      <a href="../../unitedstates/pacificwar/index.html">
+       U.S. 
+            in World War II in the Pacific
+      </a>
+      |
+      <a href="../../kennedy/gallery.htm">
+       John 
+              F. Kennedy Photo History
+      </a>
+      |
+      <a href="../../unitedstates/vietnam/index.html">
+       Vietnam 
+                War
+      </a>
+      |
+      <a href="../../worldhistory/firstworldwar/index.html">
+       First World War
+      </a>
+      |
+      <a href="../hitleryouth/index.html">
+       Hitler 
+                  Youth
+      </a>
+      |
+      <a href="../holocaust/timeline.html">
+       Holocaust Timeline
+      </a>
+      |
+      <a href="../../worldhistory/genocide/index.html">
+       Genocide in the 20th 
+                    Century
+      </a>
+      |
+      <a href="../../bookshop/titles.htm">
+       Books on Hitler's Germany
+      </a>
+      |
+      <a href="../../bookshop/usa.htm">
+       WW II Videos
+      </a>
+      |
+      <a href="../../awards/advertise.htm">
+       Advertise
+      </a>
+      |
+      <a href="world-war-II-timeline-feedback.html">
+       Send Feedback
+      </a>
+      ]
+     </p>
+     <p>
+      <font color="#000000" size="-1">
+       Terms of use: Private home/school non-commercial, 
+        non-Internet re-usage only is allowed of any text, graphics, photos, audio 
+      clips, other electronic files or materials from The History Place.
+      </font>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
