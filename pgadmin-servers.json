@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "WW2 PostgreSQL",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "ww2_db",
+      "Username": "ww2_user",
+      "SSLMode": "prefer"
+    }
+  }
+}
