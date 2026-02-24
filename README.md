@@ -199,6 +199,7 @@ Currently runs locally via Docker Compose. Planned production architecture on AW
 
 - **AWS Lambda + API Gateway** to serve the API (serverless, auto-scaling, pay-per-request)
 - **AWS RDS PostgreSQL** for the database
+- **Apache Airflow** for orchestration — scheduled monthly scraper runs, retry logic, and monitoring (currently managed via manual script execution)
 
 ## Database
 
