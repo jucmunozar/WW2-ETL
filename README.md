@@ -6,6 +6,43 @@ Data engineering pipeline to collect, normalize, and serve historical events fro
 
 I'm passionate about data engineering and military history. World War II is one of the conflicts that fascinates me the most — the scale, the turning points, the human stories behind each event. I wanted to combine both interests into a single project: build a real data pipeline that collects, deduplicates, and serves historical events from multiple sources. The result is both a technical challenge and something I genuinely care about.
 
+## Architecture
+
+```mermaid
+graph LR
+    subgraph Sources
+        W[worldwar2facts.org]
+        H[historycooperative.org]
+        HP[historyplace.com]
+        WK[wikipedia.org]
+    end
+
+    subgraph ETL Pipeline
+        S[Scrapers<br/>BeautifulSoup]
+        T[Transform<br/>Dedup + Normalize]
+    end
+
+    subgraph Storage
+        PG[(PostgreSQL 16<br/>Docker)]
+    end
+
+    subgraph API
+        FA[FastAPI<br/>REST API]
+        SW[Swagger UI]
+    end
+
+    subgraph CI/CD
+        GA[GitHub Actions<br/>ruff + pytest]
+    end
+
+    W --> S
+    H --> S
+    HP --> S
+    WK --> S
+    S --> T --> PG
+    PG --> FA --> SW
+```
+
 ## Description
 
 This project implements an ETL (Extract, Transform, Load) pipeline:
