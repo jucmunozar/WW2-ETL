@@ -8,7 +8,7 @@ from alembic import context
 from config.settings import DATABASE_URL
 from src.models.base import Base
 import src.models.event  # noqa: F401 — register all models on Base.metadata
-
+import src.models.embedding #noqa: F401
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config

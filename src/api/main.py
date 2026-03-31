@@ -2,7 +2,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from src.api.routes import events, stats
+from src.api.routes import events, stats, rag
 
 app = FastAPI(
     title="WW2 Timeline API",
@@ -20,6 +20,7 @@ app.add_middleware(
 
 app.include_router(events.router)
 app.include_router(stats.router)
+app.include_router(rag.router)
 
 
 @app.get("/")
