@@ -1,5 +1,5 @@
 """Vector store: semantic search over WW2 event embeddings."""  
-from sqlalchemy import select, text
+from sqlalchemy import select
 
 from src.models.base import get_session
 from src.models.event import Event

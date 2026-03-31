@@ -45,7 +45,6 @@ def ask(question: str, limit: int=5) -> dict:
     }
 
 if __name__ == "__main__":
-    import json
     result = ask("What happened when Germany invaded Poland?")                           
     print("ANSWER:", result["answer"])            
     print("\nSOURCES:")                           
